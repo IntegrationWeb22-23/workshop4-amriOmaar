@@ -1,0 +1,28 @@
+
+
+.foot{
+  height: 200px;
+  background-color: #e4bc01;
+}
+
+.title{
+  font-family: 'League Gothic', sans-serif;
+	font-size: 29px;
+  font-weight: bold;
+}
+
+p{
+	font-size: 18px;
+  
+}
+
+icons{
+  background-color: #e4bc01;
+}
+
+#cercle {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background: #FFFFFF;
+}
