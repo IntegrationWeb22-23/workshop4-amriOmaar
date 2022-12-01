@@ -1,0 +1,30 @@
+$primaryColor : #e3bb01;
+$secondaryColor:#3a0a1d;
+$primary-font-family: 'Lacuna', Arial, Helvetica, sans-serif;
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn-txt-color{
+    color:$secondaryColor;
+}
+.btn-bg-color{
+    background-color: $primaryColor;
+    border: none;
+}
+
+.bg-color-section2{
+    background-color: $secondaryColor;
+
+}
+*{
+    color:#fff;
+}
+.secondaryColor{
+    color:$secondaryColor;
+}
+.cercle{
+    background-color: $primaryColor;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
